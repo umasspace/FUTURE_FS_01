@@ -256,12 +256,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [EmailJS](https://www.emailjs.com/) - Email Service
 - All open-source contributors
 
-## 📸 Screenshots
-
-> Add screenshots of your portfolio here to showcase the design and features
-
----
-
 ⭐ **Star this repository if you found it helpful!**
 
 Made with ❤️ by [Umas](https://umas.pro)
