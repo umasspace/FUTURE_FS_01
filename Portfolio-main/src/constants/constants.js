@@ -337,6 +337,82 @@ const projects = [
     source_code_link: "https://nutrosoul.com/",
     live_link: "https://nutrosoul.com/",
   },
+  {
+    name: "Flashify",
+    description:
+      "Capture. Create. Go Viral — All Before Your Event Ends. Real-Time Delivery of professionally edited reels.",
+    features: [
+      "Real-Time Delivery – Reels are shot, edited, and delivered before your event ends",
+      "Professional Quality – Cinematic visuals with expert editing",
+      "Social Media Ready – Optimized for Instagram and instant sharing",
+      "Perfect for Corporate Events – Ideal for brands, campuses, and experiences",
+      "Boost Engagement – Capture moments that drive online visibility",
+      "Proven Track Record – 5000+ reels delivered with a 4.85/5 rating",
+    ],
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "ffmpeg",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "aws",
+        color: "purple-text-gradient",
+      },
+    ],
+    image: "/flashify.png",
+    source_code_link: "https://github.com/umasspace/Flashify",
+    live_link: "https://www.flashify.pro/",
+  },
+  {
+    name: "Editara",
+    description:
+      "Capture Every Family Moment — Ready Before the Celebration Ends. Real-Time Delivery of beautifully edited family event reels.",
+    features: [
+      "Real-Time Delivery – Get your reels before the function wraps up",
+      "Cinematic Quality – Professionally shot and beautifully edited",
+      "Instant Sharing – Perfectly formatted for social media",
+      "Made for Family Events – Weddings, birthdays, and special occasions",
+      "Emotional Storytelling – Every moment captured with feeling",
+      "Trusted Results – 500+ reels delivered with a 4.85/5 rating",
+    ],
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "ffmpeg",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "aws",
+        color: "purple-text-gradient",
+      },
+    ],
+    image: "/editara.png",
+    source_code_link: "https://github.com/umasspace/Editara",
+    live_link: "https://www.editara.in/#",
+  },
 ];
 
 const experiences = [
